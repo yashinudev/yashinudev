@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @moetdev
+- 👀 I’m interested in: lua scripts
+- 🌱 I’m currently learning: lua/html/java/cpp
+- 💞️ I’m looking to: collaborate on good cheat
+- 📫 How to reach me: moet#1111
