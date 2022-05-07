@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @moetdev
+- 👋 Hi, I’m @yashinu
 - 👀 I’m interested in: lua scripts
-- 🌱 I’m currently learning: lua/html/java/cpp
-- 💞️ I’m looking to: collaborate on good cheat
-- 📫 How to reach me: moet#1111
+- 🌱 I’m currently learning: js/html/css/py
+- 💞️ I’m looking to: discord bots orders
+- 📫 How to reach me: yashinu.js#9999
